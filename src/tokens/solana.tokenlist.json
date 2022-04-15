@@ -4176,6 +4176,22 @@
         "coingeckoId": "mcdex"
       }
     },
+	{
+      "chainId": 101,
+      "address": "8FwNHtCumEnZFAkrQLFEz7ngt2rXPjX3Sqt27d7xp35u",
+      "symbol": "WLT1",
+      "name": "WhiteList MeltLabs 1",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8FwNHtCumEnZFAkrQLFEz7ngt2rXPjX3Sqt27d7xp35u/logo.png"
+    },
+	{
+      "chainId": 101,
+      "address": "HMBcrrSFdVVn5APB6zT76btXg4TgqBKXioaWzTZDConp",
+      "symbol": "WLT2",
+      "name": "WhiteList MeltLabs 2",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HMBcrrSFdVVn5APB6zT76btXg4TgqBKXioaWzTZDConp/logo.png"
+    },
     {
       "chainId": 101,
       "address": "Eof7wbYsHZKaoyUGwM7Nfkoo6zQW4U7uWXqz2hoQzSkK",
